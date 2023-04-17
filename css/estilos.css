@@ -5,6 +5,9 @@ h2{
     border: 1px solid blue;
     background-color: gray;
 }
+p{
+    font-family: Verdana;
+}
 .pablo{
     color: red;
     border: 1px red solid;
